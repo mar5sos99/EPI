@@ -12,38 +12,39 @@ body{
   margin-left: 10%;
   width: 40%;
   height: 40%;
-}
-input[type=text], input[type=password] {
-        position: relative;
-        top:20px;
-        left:30px;
-        width: 100%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        display: inline-block;
-        border: 1px solid #ccc;
-        box-sizing: border-box;
-      }
+  }
+
+  input[type=text], input[type=password] {
+    position: relative;
+    top:20px;
+    left:30px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
 
 button{
-  
-  padding: 16px 32px;
-  text-align: center;
-  font-size: 20px;
-  margin: 4px 2px;
-  position: absolute;
-  right:05px;
-  background-color: black; 
-  color: rgb(241, 219, 219);
-  border: 2px solid rgb(6, 226, 226);
-  
+
+padding: 16px 32px;
+text-align: center;
+font-size: 20px;
+margin: 4px 2px;
+position: absolute;
+right:05px;
+background-color: black; 
+color: rgb(241, 219, 219);
+border: 2px solid rgb(6, 226, 226);
+
 }
 
 button:hover{
-  background-color: rgb(6, 226, 226);
-  color: rgb(0, 0, 0);
+background-color: rgb(6, 226, 226);
+color: rgb(0, 0, 0);
 }
-      
+
 .contenedor {
         
         
