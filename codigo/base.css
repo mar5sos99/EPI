@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    background-color: rgb(7, 206, 173); 
+    font-size: 20px;
+    font-family:'Segoe UI';
+   
+
+}
+.header{
+    position: relative;
+    height: 100px;
+    background-color:rgb(212, 133, 202);
+}
+.slogan{
+position: absolute;
+display: block;
+width:  350px;
+height:90px;
+margin-left: 40%;
+margin-top: 10px;
+}
+.logo{
+position: absolute;
+display: block;
+width:  80px;
+height: 80px;
+margin-left: 30%;
+margin-top: 10px;
+}
+.user{
+position: absolute;
+display: block;
+width:  80px;
+height: 80px;
+margin-left: 10px;
+margin-top: 10px;
+}
+.username{
+    position: absolute;
+    display: block;
+    height: 80px;
+    margin-left: 100px;
+    margin-top: 30px;
+    }
+
+.topnav {
+overflow: hidden;
+background-color: #333;
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+.logout{
+text-align: start;
+margin-left: 390px;
+padding: 14px 16px;
+}
+
+
+
+  
+.contenedor_2 {
+    
+position: absolute;
+top: 150px; 
+width: 300px;
+height: 475px;
+background-color:rgb(0, 0, 0);
+color: antiquewhite;
+
+
+}
+
+.contenedor_2_label{
+padding:20px;
+top:200px;
+position:absolute;
+}
